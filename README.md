@@ -1,4 +1,36 @@
-## Hi there 👋
+
+<div align="Center">
+<h1> Hi 👋 I'm Brandon Mirabal 
+  
+
+</h1>
+
+</div>
+
+<div align="center">
+<p> I am a currently a Computer Science Student and Researcher at Kean University working in the feild of External Human Machine Interfaces(eHMI's)</p>
+
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white>
+<img src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white>
+
+
+
+  <div>
+  <img src=https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif>
+    <br>
+  </div>
+</div>
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on External Human Machine Interface Research at Kean University
 - 🌱 I’m currently learning OpenGL, and Manim in hopes of creating intruiging vizuals for Mathamatics and Computer Science
@@ -14,20 +46,14 @@ Machine Interfaces(eHMI) in Multiple Autonomous Vehicles(AVs)
 - Game Engine OpenGL
 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 
 <h1>Skills</h1>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonmir15"/>
 
 
 
